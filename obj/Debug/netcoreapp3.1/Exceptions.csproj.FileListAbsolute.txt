@@ -1,0 +1,13 @@
+C:\Users\Dylan\Desktop\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+C:\Users\Dylan\Desktop\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+C:\Users\Dylan\Desktop\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+C:\Users\Dylan\Desktop\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+C:\Users\Dylan\Desktop\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\Dylan\Desktop\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\Dylan\Desktop\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\Dylan\Desktop\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\Dylan\Desktop\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache
